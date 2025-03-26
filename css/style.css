@@ -134,7 +134,7 @@ a:hover, a:focus, a:active, a:visited {
 .hero-header .rocket {
 	max-width: 100%;
 	width: 200px; /* Add width */
-	height: 200px; /* Add height */
+	height: 179px; /* Add height */
 }
 .me-row {
 	padding: 30px 0;
@@ -168,8 +168,8 @@ a:hover, a:focus, a:active, a:visited {
 	max-width: 40%;
     border: 4px solid #efefef;
     border-radius: 50%;
-    width: 150px; /* Add width */
-    height: 150px; /* Add height */
+    width: 120px; /* Add width */
+    height: 120px; /* Add height */
 }
 ul.speaker-social li {
 	list-style: none;
