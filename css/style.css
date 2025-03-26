@@ -1,4 +1,5 @@
 body {
+
 	font-family: 'Dosis', sans-serif;
     color: #404142;
     font-size: 16px;
@@ -126,7 +127,7 @@ a:hover, a:focus, a:active, a:visited {
 .hero-header .logo {
 	max-width: 180px;
     width: 180px; /* Add width */
-    height: auto; /* Add height */
+    height: 70px; /* Add height */
 }
 .hero-header .btn {
 	margin-top: 3em;
@@ -211,6 +212,8 @@ a span.ti-twitter-alt {
 }
 .schedule .media-object {
 	max-width: 100px;
+    width: 100px;
+    height: 100px;
 }
 .schedule .media-heading {
 	font-weight: 600;
